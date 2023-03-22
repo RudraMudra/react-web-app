@@ -1,0 +1,25 @@
+.brand{
+    font-size: 22px;
+    font-weight: bold;
+}
+ header a{
+    color: whitesmoke;
+    margin-right: 20px;
+    text-decoration: none;
+}
+header a:hover{
+    color: white;
+    text-decoration: underline;
+}
+.nav-icons span{
+    margin-right: 15px;
+}
+section{
+    height: 500px;
+}
+footer{
+    font-size: 15px;
+}
+h3{
+    font-size: 18px;
+}
